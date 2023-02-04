@@ -1,0 +1,3658 @@
+[
+    {
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "MUST POWER LIMITED",
+                                  "brand": {
+                                            "brandname": "MUST",
+                                            "item": {
+                                                      "itemname": "PV18-1012 VPM",
+                                                      "capacity": "1012",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "5",
+                                                                "Grossweight": "5.4"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+              "id": 1674723288282,
+              "country": {
+                        "countryname": "",
+                        "factory": {
+                                  "factoryname": "MUST POWER LIMITED",
+                                  "brand": {
+                                            "brandname": "MUST",
+                                            "item": {
+                                                      "itemname": "PV18-3024 VPM",
+                                                      "capacity": "3024",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "7.8",
+                                                                "Grossweight": "8.3"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+              "id": 1674723354889,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "MUST POWER LIMITED",
+                                  "brand": {
+                                            "brandname": "MUST",
+                                            "item": {
+                                                      "itemname": "PV18-3024 PRO",
+                                                      "capacity": "3024",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "10.7",
+                                                                "Grossweight": "11.2"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+           
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "MUST POWER LIMITED",
+                                  "brand": {
+                                            "brandname": "MUST",
+                                            "item": {
+                                                      "itemname": "PV18-5248 PRO",
+                                                      "capacity": "5248",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "13",
+                                                                "Grossweight": "13.5"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+
+
+,
+
+    {
+                                  "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "LUMINOUS POWER TECHNOLOGIES",
+                                  "brand": {
+                                            "brandname": "LUMINOUS",
+                                            "item": {
+                                                      "itemname": "S/W UPS 900/12V LUMINOUS ZELIO EXP ",
+                                                      "capacity": "900",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "11",
+                                                                "Grossweight": "12"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+
+
+    {
+             
+              "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "LUMINOUS POWER TECHNOLOGIES",
+                                  "brand": {
+                                            "brandname": "LUMINOUS",
+                                            "item": {
+                                                      "itemname": "LUMINOUS OPTIMUS S/W UPS 1100VA/12V EXP",
+                                                      "capacity": "1100",
+                                                      "Numinbul": "",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": " 12.5",
+                                                                "Grossweight": "13"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+{
+                                  "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "LUMINOUS POWER TECHNOLOGY",
+                                  "brand": {
+                                            "brandname": "LUMINOUS",
+                                            "item": {
+                                                      "itemname": "S/W UPS 2800VA /24V LUMINOUS I-CRUZE EXP",
+                                                      "capacity": "2800",
+                                                      "Numinbul": "1",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "24",
+                                                                "Grossweight": "25"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+
+
+
+
+
+    {
+             
+              "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "EXIDE INDUSTRIES LIMITED",
+                                  "brand": {
+                                            "brandname": "EXIDE",
+                                            "item": {
+                                                      "itemname": "EXIDE IT750-12(12V-200AH)",
+                                                      "capacity": "200",
+                                                      "Numinbul": "16",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "65",
+                                                                "Grossweight": "66"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+            
+              "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "EXIDE INDUSTRIES LIMITED",
+                                  "brand": {
+                                            "brandname": "EXIDE",
+                                            "item": {
+                                                      "itemname": "EXIDE IT850-12(12V-230AH)",
+                                                      "capacity": "230",
+                                                      "Numinbul": "16",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "76",
+                                                                "Grossweight": "77"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+              
+              "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "EXIDE INDUSTRIES LIMITED",
+                                  "brand": {
+                                            "brandname": "EXIDE",
+                                            "item": {
+                                                      "itemname": "EXIDE SGL200",
+                                                      "capacity": "200",
+                                                      "Numinbul": "",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "76",
+                                                                "Grossweight": "78"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+              "id": 1674739776788,
+              "country": {
+                        "countryname": "INDIA",
+                        "factory": {
+                                  "factoryname": "EXIDE INDUSTRIES LIMITED",
+                                  "brand": {
+                                            "brandname": "EXIDE",
+                                            "item": {
+                                                      "itemname": "EXIDE EL 200-C10",
+                                                      "capacity": "200",
+                                                      "Numinbul": "16",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "68",
+                                                                "Grossweight": "69.56"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                         }
+                                     }
+                     }
+                    }
+              }
+    },
+    {
+        "id": 1675321507919,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)6DM8(12V8AH)",
+                                                "capacity": "8",
+                                                "Numinbul": "700",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "2.2",
+                                                          "Grossweight": "2.25"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675321584415,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)6DM14(12V14AH)",
+                                                "capacity": "14",
+                                                "Numinbul": "315",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "4.36",
+                                                          "Grossweight": "4.46"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675321653038,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)6DM22(12V22AH)",
+                                                "capacity": "22",
+                                                "Numinbul": "200",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "6.8",
+                                                          "Grossweight": "6.88"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675321752447,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(DONGJIN)6EVF-45(12V45AH)",
+                                                "capacity": "45",
+                                                "Numinbul": "96",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "13.4",
+                                                          "Grossweight": "13.65"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675321831927,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(DONGJIN)6EVF-58(12V58AH)",
+                                                "capacity": "58",
+                                                "Numinbul": "96",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "15.2",
+                                                          "Grossweight": "15.45"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675321989510,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)6EVF-70(12V70AH)",
+                                                "capacity": "70",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "23.7",
+                                                          "Grossweight": "24.2"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675322054862,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)DJ12-100FT(12V100AH)",
+                                                "capacity": "100",
+                                                "Numinbul": "48",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "30",
+                                                          "Grossweight": "30.5"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675322143791,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)DJ12-150FT(12V150AH)",
+                                                "capacity": "150",
+                                                "Numinbul": "32",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "45",
+                                                          "Grossweight": "45.5"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+        "id": 1675322217599,
+        "country": {
+                  "countryname": "CHINA",
+                  "factory": {
+                            "factoryname": "HONGKONG DONGJIN LIMITED",
+                            "brand": {
+                                      "brandname": "DONGJIN KINFON",
+                                      "item": {
+                                                "itemname": "(KINFON)DJ12-200-FT(12V200AH)",
+                                                "capacity": "200",
+                                                "Numinbul": "24",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "57",
+                                                          "Grossweight": "57.5"
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},
+{
+    "id": 1675319451463,
+    "country": {
+              "countryname": "china",
+              "factory": {
+                        "factoryname": "LONGI SOLAR TECHNOLOGY CO, LTD",
+                        "brand": {
+                                  "brandname": "LONGI",
+                                  "item": {
+                                            "itemname": "MONO SOLAR MODULE LR5-72HPH-550 HI-MO 5M",
+                                            "capacity": "550",
+                                            "Numinbul": "31",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "",
+                                                      "Grossweight": ""
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675319541024,
+    "country": {
+              "countryname": "CHINA",
+              "factory": {
+                        "factoryname": "ONGI SOLAR TECHNOLOGY CO, LTD",
+                        "brand": {
+                                  "brandname": "LONGI",
+                                  "item": {
+                                            "itemname": "MONO SOLAR MODULE LR5-72HPH-555M HI-MO 5",
+                                            "capacity": "555",
+                                            "Numinbul": "31",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "",
+                                                      "Grossweight": ""
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675319616711,
+    "country": {
+              "countryname": "CHINA",
+              "factory": {
+                        "factoryname": "LONGI SOLAR TECHNOLOGY CO, LTD",
+                        "brand": {
+                                  "brandname": "LONGI",
+                                  "item": {
+                                            "itemname": "MONO SOLAR MODULE LR5-72 HTH 570M HI-MO 6",
+                                            "capacity": "570",
+                                            "Numinbul": "31",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "",
+                                                      "Grossweight": ""
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675319691727,
+    "country": {
+              "countryname": "CHINA",
+              "factory": {
+                        "factoryname": "LONGI SOLAR TECHNOLOGY CO, LTD",
+                        "brand": {
+                                  "brandname": "LONGI",
+                                  "item": {
+                                            "itemname": "MONO SOLAR MODULE LR5-72 HTH 575M HI-MO 6",
+                                            "capacity": "575",
+                                            "Numinbul": "31",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "",
+                                                      "Grossweight": ""
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675344962294,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 60033(100R) -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "21.40",
+                                                      "Grossweight": "21.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345119015,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 1000RA -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "60",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "24",
+                                                      "Grossweight": "24.37"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345303726,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 105D31R -90AH",
+                                            "capacity": "90",
+                                            "Numinbul": "",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.80",
+                                                      "Grossweight": "21.42"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345395935,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 60044 -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.70",
+                                                      "Grossweight": "23"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345490975,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF N150L",
+                                            "capacity": "150",
+                                            "Numinbul": "32",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "39.50",
+                                                      "Grossweight": "40.18"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345553175,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF N170L",
+                                            "capacity": "170",
+                                            "Numinbul": "32",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "40.18",
+                                                      "Grossweight": "41.56"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345616190,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF N200L",
+                                            "capacity": "200",
+                                            "Numinbul": "24",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "53",
+                                                      "Grossweight": "53.91"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346041806,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 55559 -55AH",
+                                            "capacity": "55",
+                                            "Numinbul": "110",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "14.10",
+                                                      "Grossweight": "14.30"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346103719,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 40B19L A-35",
+                                            "capacity": "35",
+                                            "Numinbul": "148",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "9.20",
+                                                      "Grossweight": "9.35"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346180222,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF N40L -40AH",
+                                            "capacity": "40",
+                                            "Numinbul": "112",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "11.30",
+                                                      "Grossweight": "11.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346287063,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 80D26L -70AH",
+                                            "capacity": "70",
+                                            "Numinbul": "80",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "17.89",
+                                                      "Grossweight": "18.47"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346413222,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 57412",
+                                            "capacity": "",
+                                            "Numinbul": "90",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "17",
+                                                      "Grossweight": "17.24"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346484983,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "SUPREME",
+                                  "item": {
+                                            "itemname": "SMF 105D31L -90AH",
+                                            "capacity": "90",
+                                            "Numinbul": "72",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.80",
+                                                      "Grossweight": "21.41"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST 12N3 12V-3AH",
+                                                      "capacity": "3",
+                                                      "Numinbul": "20",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.10",
+                                                                "Grossweight": "1.20"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTX4-BS- 12V- 4AH",
+                                                      "capacity": "4",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.40",
+                                                                "Grossweight": "1.50"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTZ5S-BS- 12V-4AH",
+                                                      "capacity": "5",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": " ",
+                                                                "Grossweight": " "
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTX5L-BS- 12V-5AH",
+                                                      "capacity": "5",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.80",
+                                                                "Grossweight": "1.90"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST 12N5L-BS- 12V-5AH",
+                                                      "capacity": "5",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.90",
+                                                                "Grossweight": "2.05"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTZ7 12V-5AH",
+                                                      "capacity": "7",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.80",
+                                                                "Grossweight": "1.90"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST 12N6.5- BS 12V-6.5A H",
+                                                      "capacity": "6.5",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "1.90",
+                                                                "Grossweight": "2.02"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTX7A-12V- 7AH",
+                                                      "capacity": "7",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "2.48",
+                                                                "Grossweight": "2.63"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTX7L-12V- 7AH",
+                                                      "capacity": "7",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "2.48",
+                                                                "Grossweight": "2.63"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST 12N7A-BS-12V-7AH",
+                                                      "capacity": "7",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "2.20",
+                                                                "Grossweight": "2.30"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST 12N9L-BS -9AH",
+                                                      "capacity": "9",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "2.80",
+                                                                "Grossweight": "2.90"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675420185871,
+              "country": {
+                        "countryname": "CHINA",
+                        "factory": {
+                                  "factoryname": "ENKEEL TECHNOLOGY CO, LTD",
+                                  "brand": {
+                                            "brandname": "WORLD EAST",
+                                            "item": {
+                                                      "itemname": "BATTERY WORLD EAST YTX9 12V-9AH",
+                                                      "capacity": "9",
+                                                      "Numinbul": "10",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "2.80",
+                                                                "Grossweight": "2.90"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    {
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -N40",
+                                                "capacity": "40",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+}
+,
+{
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -55530",
+                                                "capacity": "55",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+}
+,
+{
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -N100",
+                                                "capacity": "100",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+}
+,
+{
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -N150",
+                                                "capacity": "150",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+}
+,
+{
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -N200",
+                                                "capacity": "200",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+}
+,
+{
+        "id": 1675423520844,
+        "country": {
+                  "countryname": "OMAN",
+                  "factory": {
+                            "factoryname": "REEM BATTERIES & POWER APPLIANCE CO. SAOC",
+                            "brand": {
+                                      "brandname": "GRANDSTAR",
+                                      "item": {
+                                                "itemname": "GRANDSTAR DRY CHARGED BATTERIES  -N40",
+                                                "capacity": "40",
+                                                "Numinbul": "",
+                                                "picture": "",
+                                                "price": {
+                                                          "Netprice": "",
+                                                          "Additioninprice": ""
+                                                },
+                                                "weight": {
+                                                          "Netweight": "",
+                                                          "Grossweight": ""
+                                                },
+                                                "WareHouse": "",
+                                                "status": {
+                                                          "Booked": "",
+                                                          "InTransit": "",
+                                                          "Available": ""
+                                                }
+                                      }
+                            }
+                  }
+        }
+},         
+ {
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": "KOREANA",
+                                  "item": {
+                                            "itemname": "MF 55559",
+                                            "capacity": "55",
+                                            "Numinbul": "132",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "14.27",
+                                                      "Grossweight": "14.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 56638",
+                                            "capacity": "66",
+                                            "Numinbul": "132",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "14.27",
+                                                      "Grossweight": "14.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 80D26L",
+                                            "capacity": "70",
+                                            "Numinbul": "120",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "16.79",
+                                                      "Grossweight": "17.29"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 57412",
+                                            "capacity": "74",
+                                            "Numinbul": "108",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "17.37",
+                                                      "Grossweight": "17.89"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 105D31L",
+                                            "capacity": "90",
+                                            "Numinbul": "108",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.50",
+                                                      "Grossweight": "21.13"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 105D31R",
+                                            "capacity": "90",
+                                            "Numinbul": "108",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.50",
+                                                      "Grossweight": "21.13"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF1000R",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "22.13",
+                                                      "Grossweight": "22.79"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF1000RA",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "24.23",
+                                                      "Grossweight": "24.96"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF160G51R",
+                                            "capacity": "150",
+                                            "Numinbul": "40",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "38.77",
+                                                      "Grossweight": "39.93"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF 60044",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "22",
+                                                      "Grossweight": "23"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+{
+    "id": 1675426137100,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "DN AUTOMOTIVES",
+                        "brand": {
+                                  "brandname": " KOREANA ",
+                                  "item": {
+                                            "itemname": "MF210H52R",
+                                            "capacity": "200",
+                                            "Numinbul": "30",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "50.65",
+                                                      "Grossweight": "52.16"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 55559",
+                                                      "capacity": "55",
+                                                      "Numinbul": "132",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "14.27",
+                                                                "Grossweight": "14.70"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 56638",
+                                                      "capacity": "66",
+                                                      "Numinbul": "132",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "14.27",
+                                                                "Grossweight": "14.70"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 80D26L",
+                                                      "capacity": "70",
+                                                      "Numinbul": "120",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "16.79",
+                                                                "Grossweight": "17.29"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 57412",
+                                                      "capacity": "74",
+                                                      "Numinbul": "108",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "17.37",
+                                                                "Grossweight": "17.89"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 105D31L",
+                                                      "capacity": "90",
+                                                      "Numinbul": "108",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "20.50",
+                                                                "Grossweight": "21.13"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 105D31R",
+                                                      "capacity": "90",
+                                                      "Numinbul": "108",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "20.50",
+                                                                "Grossweight": "21.13"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF1000R",
+                                                      "capacity": "100",
+                                                      "Numinbul": "75",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "22.13",
+                                                                "Grossweight": "22.79"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF1000RA",
+                                                      "capacity": "100",
+                                                      "Numinbul": "75",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "24.23",
+                                                                "Grossweight": "24.96"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF160G51R",
+                                                      "capacity": "150",
+                                                      "Numinbul": "40",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "38.77",
+                                                                "Grossweight": "39.93"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF 60044",
+                                                      "capacity": "100",
+                                                      "Numinbul": "75",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "22",
+                                                                "Grossweight": "23"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    }
+,
+    {
+              "id": 1675426137100,
+              "country": {
+                        "countryname": "SOUTH KOREA",
+                        "factory": {
+                                  "factoryname": "DN AUTOMOTIVES",
+                                  "brand": {
+                                            "brandname": "VOLTEX",
+                                            "item": {
+                                                      "itemname": "MF210H52R",
+                                                      "capacity": "200",
+                                                      "Numinbul": "30",
+                                                      "picture": "",
+                                                      "price": {
+                                                                "Netprice": "",
+                                                                "Additioninprice": ""
+                                                      },
+                                                      "weight": {
+                                                                "Netweight": "50.65",
+                                                                "Grossweight": "52.16"
+                                                      },
+                                                      "WareHouse": "",
+                                                      "status": {
+                                                                "Booked": "",
+                                                                "InTransit": "",
+                                                                "Available": ""
+                                                      }
+                                            }
+                                  }
+                        }
+              }
+    },
+    
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": "FLASH",
+                                                "item": {
+                                                          "itemname": "MF 55559",
+                                                          "capacity": "55",
+                                                          "Numinbul": "132",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "14.27",
+                                                                    "Grossweight": "14.70"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 56638",
+                                                          "capacity": "66",
+                                                          "Numinbul": "132",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "14.27",
+                                                                    "Grossweight": "14.70"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 80D26L",
+                                                          "capacity": "70",
+                                                          "Numinbul": "120",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "16.79",
+                                                                    "Grossweight": "17.29"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 57412",
+                                                          "capacity": "74",
+                                                          "Numinbul": "108",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "17.37",
+                                                                    "Grossweight": "17.89"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 105D31L",
+                                                          "capacity": "90",
+                                                          "Numinbul": "108",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "20.50",
+                                                                    "Grossweight": "21.13"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 105D31R",
+                                                          "capacity": "90",
+                                                          "Numinbul": "108",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "20.50",
+                                                                    "Grossweight": "21.13"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF1000R",
+                                                          "capacity": "100",
+                                                          "Numinbul": "75",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "22.13",
+                                                                    "Grossweight": "22.79"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF1000RA",
+                                                          "capacity": "100",
+                                                          "Numinbul": "75",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "24.23",
+                                                                    "Grossweight": "24.96"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF160G51R",
+                                                          "capacity": "150",
+                                                          "Numinbul": "40",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "38.77",
+                                                                    "Grossweight": "39.93"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF 60044",
+                                                          "capacity": "100",
+                                                          "Numinbul": "75",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "22",
+                                                                    "Grossweight": "23"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        }
+,
+        {
+                  "id": 1675426137100,
+                  "country": {
+                            "countryname": "SOUTH KOREA",
+                            "factory": {
+                                      "factoryname": "DN AUTOMOTIVES",
+                                      "brand": {
+                                                "brandname": " FLASH ",
+                                                "item": {
+                                                          "itemname": "MF210H52R",
+                                                          "capacity": "200",
+                                                          "Numinbul": "30",
+                                                          "picture": "",
+                                                          "price": {
+                                                                    "Netprice": "",
+                                                                    "Additioninprice": ""
+                                                          },
+                                                          "weight": {
+                                                                    "Netweight": "50.65",
+                                                                    "Grossweight": "52.16"
+                                                          },
+                                                          "WareHouse": "",
+                                                          "status": {
+                                                                    "Booked": "",
+                                                                    "InTransit": "",
+                                                                    "Available": ""
+                                                          }
+                                                }
+                                      }
+                            }
+                  }
+        },
+        {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": "FLASH",
+                                          "item": {
+                                                    "itemname": "MF 55559",
+                                                    "capacity": "55",
+                                                    "Numinbul": "132",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "14.27",
+                                                              "Grossweight": "14.70"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 56638",
+                                                    "capacity": "66",
+                                                    "Numinbul": "132",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "14.27",
+                                                              "Grossweight": "14.70"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 80D26L",
+                                                    "capacity": "70",
+                                                    "Numinbul": "120",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "16.79",
+                                                              "Grossweight": "17.29"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 57412",
+                                                    "capacity": "74",
+                                                    "Numinbul": "108",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "17.37",
+                                                              "Grossweight": "17.89"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 105D31L",
+                                                    "capacity": "90",
+                                                    "Numinbul": "108",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "20.50",
+                                                              "Grossweight": "21.13"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 105D31R",
+                                                    "capacity": "90",
+                                                    "Numinbul": "108",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "20.50",
+                                                              "Grossweight": "21.13"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF1000R",
+                                                    "capacity": "100",
+                                                    "Numinbul": "75",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "22.13",
+                                                              "Grossweight": "22.79"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF1000RA",
+                                                    "capacity": "100",
+                                                    "Numinbul": "75",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "24.23",
+                                                              "Grossweight": "24.96"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF160G51R",
+                                                    "capacity": "150",
+                                                    "Numinbul": "40",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "38.77",
+                                                              "Grossweight": "39.93"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF 60044",
+                                                    "capacity": "100",
+                                                    "Numinbul": "75",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "22",
+                                                              "Grossweight": "23"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  }
+,
+  {
+            "id": 1675426137100,
+            "country": {
+                      "countryname": "SOUTH KOREA",
+                      "factory": {
+                                "factoryname": "DN AUTOMOTIVES",
+                                "brand": {
+                                          "brandname": " FLASH ",
+                                          "item": {
+                                                    "itemname": "MF210H52R",
+                                                    "capacity": "200",
+                                                    "Numinbul": "30",
+                                                    "picture": "",
+                                                    "price": {
+                                                              "Netprice": "",
+                                                              "Additioninprice": ""
+                                                    },
+                                                    "weight": {
+                                                              "Netweight": "50.65",
+                                                              "Grossweight": "52.16"
+                                                    },
+                                                    "WareHouse": "",
+                                                    "status": {
+                                                              "Booked": "",
+                                                              "InTransit": "",
+                                                              "Available": ""
+                                                    }
+                                          }
+                                }
+                      }
+            }
+  },
+  {
+    "id": 1675344962294,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": "ROCKET",
+                                  "item": {
+                                            "itemname": "SMF 60033(100R) -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "21.40",
+                                                      "Grossweight": "21.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345119015,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 1000RA -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "60",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "24",
+                                                      "Grossweight": "24.37"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345303726,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 105D31R -90AH",
+                                            "capacity": "90",
+                                            "Numinbul": "",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.80",
+                                                      "Grossweight": "21.42"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345395935,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 60044 -100AH",
+                                            "capacity": "100",
+                                            "Numinbul": "75",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.70",
+                                                      "Grossweight": "23"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345490975,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF N150L",
+                                            "capacity": "150",
+                                            "Numinbul": "32",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "39.50",
+                                                      "Grossweight": "40.18"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345553175,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF N170L",
+                                            "capacity": "170",
+                                            "Numinbul": "32",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "40.18",
+                                                      "Grossweight": "41.56"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675345616190,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF N200L",
+                                            "capacity": "200",
+                                            "Numinbul": "24",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "53",
+                                                      "Grossweight": "53.91"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346041806,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 55559 -55AH",
+                                            "capacity": "55",
+                                            "Numinbul": "110",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "14.10",
+                                                      "Grossweight": "14.30"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346103719,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 40B19L A-35",
+                                            "capacity": "35",
+                                            "Numinbul": "148",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "9.20",
+                                                      "Grossweight": "9.35"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346180222,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF N40L -40AH",
+                                            "capacity": "40",
+                                            "Numinbul": "112",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "11.30",
+                                                      "Grossweight": "11.70"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346287063,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 80D26L -70AH",
+                                            "capacity": "70",
+                                            "Numinbul": "80",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "17.89",
+                                                      "Grossweight": "18.47"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346413222,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 57412",
+                                            "capacity": "",
+                                            "Numinbul": "90",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "17",
+                                                      "Grossweight": "17.24"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+},
+{
+    "id": 1675346484983,
+    "country": {
+              "countryname": "SOUTH KOREA",
+              "factory": {
+                        "factoryname": "SEBANG GLOBAL BATTERY CO, LTD",
+                        "brand": {
+                                  "brandname": " ROCKET ",
+                                  "item": {
+                                            "itemname": "SMF 105D31L -90AH",
+                                            "capacity": "90",
+                                            "Numinbul": "72",
+                                            "picture": "",
+                                            "price": {
+                                                      "Netprice": "",
+                                                      "Additioninprice": ""
+                                            },
+                                            "weight": {
+                                                      "Netweight": "20.80",
+                                                      "Grossweight": "21.41"
+                                            },
+                                            "WareHouse": "",
+                                            "status": {
+                                                      "Booked": "",
+                                                      "InTransit": "",
+                                                      "Available": ""
+                                            }
+                                  }
+                        }
+              }
+    }
+}
+
+
+]
+
