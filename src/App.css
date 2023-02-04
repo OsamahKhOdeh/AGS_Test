@@ -46,3 +46,10 @@ td {
   width: 250px;
   font-size: 20px;
 }
+
+.search-area {
+ align-items: center;
+  background-color: aqua;
+  color: red;
+    flex-direction:row-reverse;
+}
